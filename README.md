@@ -28,7 +28,7 @@ The research acknowledges the potential benefits of combining Content-Based and 
 
 ### 3.1 Data
 
-The TMDB 5000 Movie dataset serves as the cornerstone of the project, offering a rich repository of movie metadata. This dataset includes information on movie titles, genres, and tags, providing a comprehensive foundation for the recommender system.
+The TMDB 5000 Movie dataset from Kaggle (Both movies and credits in terms of .csv file) serves as the cornerstone of the project, offering a rich repository of movie metadata. This dataset includes information on movie titles, genres, and tags, providing a comprehensive foundation for the recommender system.
 
 ### 3.2 Preprocessing
 
